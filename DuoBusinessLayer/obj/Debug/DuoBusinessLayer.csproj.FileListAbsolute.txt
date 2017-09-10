@@ -1,0 +1,9 @@
+c:\Users\Hao\documents\visual studio 2017\Projects\Duo\DuoBusinessLayer\bin\Debug\DuoBusinessLayer.dll
+c:\Users\Hao\documents\visual studio 2017\Projects\Duo\DuoBusinessLayer\bin\Debug\DuoBusinessLayer.pdb
+c:\Users\Hao\documents\visual studio 2017\Projects\Duo\DuoBusinessLayer\obj\Debug\DuoBusinessLayer.dll
+c:\Users\Hao\documents\visual studio 2017\Projects\Duo\DuoBusinessLayer\obj\Debug\DuoBusinessLayer.pdb
+c:\Users\Hao\documents\visual studio 2017\Projects\Duo\DuoBusinessLayer\bin\Debug\MetadataExtractor.dll
+c:\Users\Hao\documents\visual studio 2017\Projects\Duo\DuoBusinessLayer\bin\Debug\XmpCore.dll
+c:\Users\Hao\documents\visual studio 2017\Projects\Duo\DuoBusinessLayer\bin\Debug\MetadataExtractor.xml
+c:\Users\Hao\documents\visual studio 2017\Projects\Duo\DuoBusinessLayer\bin\Debug\XmpCore.xml
+C:\Users\Hao\documents\visual studio 2017\Projects\Duo\DuoBusinessLayer\obj\Debug\DuoBusinessLayer.csprojResolveAssemblyReference.cache
